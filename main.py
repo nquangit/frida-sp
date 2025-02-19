@@ -2,7 +2,7 @@ import argparse
 
 from system import ADB
 from system import Style
-from os import path, environ
+from os import path
 
 adb = None
 parser = None

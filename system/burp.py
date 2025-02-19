@@ -1,4 +1,4 @@
-from .style import Style
+from style import Style
 from requests import get, RequestException
 from os import path, makedirs
 

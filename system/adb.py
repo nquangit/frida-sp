@@ -2,7 +2,7 @@ import os
 import argparse
 import subprocess
 from os import environ
-from .style import Style
+from style import Style
 from .burp import BurpHelper
 from .crypt import CryptHelper
 

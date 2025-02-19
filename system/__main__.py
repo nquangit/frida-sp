@@ -1,5 +1,5 @@
 from .adb import ADB
-from .style import Style
+from style import Style
 
 
 adb = ADB()

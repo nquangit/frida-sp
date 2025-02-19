@@ -1,5 +1,5 @@
 from .burp import BurpHelper
-from .style import Style
+from style import Style
 import os
 import subprocess
 
